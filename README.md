@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m Khaled Elgamely A frontend developer Specializing in react and next js<br>👀 I’m interested in blockchain development<br>🌱 I’m currently learning blockchain development<br>💞️ I’m looking to collaborate on frontend projects<br>📫 How to reach me khaledelgamely50@gmail.com
+👋 Hi, I’m Khaled Elgamely A Mearn developer Specializing in react and next js<br>👀 I’m interested in blockchain development<br>🌱 I’m currently learning blockchain development<br>💞️ I’m looking to collaborate on Full-Stack projects<br>📫 How to reach me khaledelgamely50@gmail.com
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khalid-elgamely-874470242/)
